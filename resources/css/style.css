@@ -1,0 +1,83 @@
+/* ================================================================== BASE == */
+
+*, *:before, *:after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+}
+
+body {
+  margin: 0;
+  font-family: Verdana, sans-serif;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+
+footer {
+  padding: 0 1rem;
+  text-align: right;
+}
+
+
+
+
+
+/* ============================================================ TYPOGRAPHY == */
+
+h1 {
+  font-size: 3.125rem;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: 2.625rem;
+  font-weight: 300;
+}
+
+p {
+  font-size: 1.3125rem;
+  color: grey;
+}
+
+a {
+  color: aquamarine;
+}
+
+
+
+
+
+/* ================================================================= MEDIA == */
+
+video,
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+img {
+  margin-bottom: 2rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
